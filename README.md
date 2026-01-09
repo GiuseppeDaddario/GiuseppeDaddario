@@ -13,7 +13,7 @@
 <br />
 
 ## About me
-I'm a computer scientist passionate about **Robotics**. I like designing stuff and to learn how to design stuff :)
+I'm a computer scientist passionate about **Robotics**. I like designing things and figuring out how to design them :)
 
 Currently working on:
 - University: Autonomous and Mobile Robotics, Probabilistic Robotics, Reinforcement Learning
