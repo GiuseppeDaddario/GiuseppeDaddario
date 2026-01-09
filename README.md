@@ -17,7 +17,7 @@ I'm a computer scientist passionate about **Robotics**. I like designing things 
 
 Currently working on:
 - University: Autonomous and Mobile Robotics, Probabilistic Robotics, Reinforcement Learning
-- Hobby: WatchList WebApp
+- Hobby: WatchList WebApp, SecretSanta WebApp
 
 <br />
 
