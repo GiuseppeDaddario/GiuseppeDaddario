@@ -21,6 +21,34 @@ Currently working on:
 
 <br />
 
+## Academic Projects
+
+- **Car Plate Recognition & Reconstruction**  
+  Detection and recognition of car plates using the CCPD2019 dataset.  
+  <a href="https://github.com/GiuseppeDaddario/Computer-Vision.git">
+    <img src="https://img.shields.io/badge/View%20on-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+- **Graph Neural Network for Graph Classification**  
+  Implementation of GNN models for graph classification under different label noise conditions.  
+  <a href="https://github.com/GiuseppeDaddario/Hackaton_DeepL.git">
+    <img src="https://img.shields.io/badge/View%20on-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+- **Motion Retargeting for Grasping Tasks**  
+  Retargeting human hand motion onto robotic hand models for grasping tasks using synergies.  
+  <a href="https://github.com/yvhem/object_domain_synergy_mapping.git">
+    <img src="https://img.shields.io/badge/View%20on-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+- **Dynamic Feedback Linearization of Ingenuity**  
+  Designing a trajectory tracking controller for a co-axial helicopter modeled after NASA's Ingenuity.  
+  <a href="https://github.com/yvhem/ingenuity_dynamic_feedback_linearization.git">
+    <img src="https://img.shields.io/badge/View%20on-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+<br />
+
 <div>
   <h2>Skills</h2>
 
