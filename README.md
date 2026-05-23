@@ -16,8 +16,7 @@
 I'm a computer scientist passionate about **Robotics**. I like designing things and figuring out how to design them :)
 
 Currently working on:
-- University: Autonomous and Mobile Robotics, Probabilistic Robotics, Reinforcement Learning
-- Hobby: WatchList WebApp, SecretSanta WebApp
+- Calibration of stereo cameras mounted on a legged robot.
 
 <br />
 
@@ -44,6 +43,20 @@ Currently working on:
 - **Dynamic Feedback Linearization of Ingenuity**  
   Designing a trajectory tracking controller for a co-axial helicopter modeled after NASA's Ingenuity.  
   <a href="https://github.com/yvhem/ingenuity_dynamic_feedback_linearization.git">
+    <img src="https://img.shields.io/badge/View%20on-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+- **Variable-height MPC using the VH-IP model**  
+  Implementing an IS-MPC, a framework for humanoid gait generation, extended to work with variable height of the robot CoM.
+  
+  <a href="https://github.com/GiuseppeDaddario/Variable_height_MPC_VH-IP.git">
+    <img src="https://img.shields.io/badge/View%20on-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  
+- **Online Footstep Adaptation of a Humanoid via Reinforcement Learning**  
+Implementing a combined model-based and RL system for humanoid locomotion.
+
+  <a href="https://github.com/GiuseppeDaddario/RL_FootstepAdaptation.git">
     <img src="https://img.shields.io/badge/View%20on-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
